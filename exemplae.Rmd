@@ -11,7 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-put in a new line because my analysis is going to be awesome!
+but I don't want my html tracked!
+
+put in a new line because my analysis is going to be awesome
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
